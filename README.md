@@ -4,7 +4,7 @@
 
 <br>
 
-**Experience Cloud** &nbsp;·&nbsp; **Financial Services Cloud** &nbsp;·&nbsp; **CRM Analytics** &nbsp;·&nbsp; **Apex & LWC** &nbsp;·&nbsp; **Integrations**
+**Sales** &nbsp;·&nbsp; **Service** &nbsp;·&nbsp; **Experience** &nbsp;·&nbsp; **Financial Services** &nbsp;·&nbsp; **Automotive** &nbsp;·&nbsp; **CRM Analytics**
 
 <br>
 
@@ -42,10 +42,30 @@ public with sharing class DivyaChokshi {
 <img src="divider.svg" width="100%" alt="">
 </div>
 
+## My Salesforce footprint
+
+<div align="center">
+<img src="clouds.svg" alt="Clouds I work on: Sales, Service, Experience, Financial Services, Automotive, CRM Analytics" width="100%">
+</div>
+
+<div align="center">
+<img src="divider.svg" width="100%" alt="">
+</div>
+
 ## What I work on
 
 <div align="center">
 <img src="focus.svg" alt="Experience Cloud, CRM Analytics, Apex and LWC, Integrations, Copado DevOps, Architect path" width="100%">
+</div>
+
+<div align="center">
+<img src="divider.svg" width="100%" alt="">
+</div>
+
+## How I ship
+
+<div align="center">
+<img src="pipeline.svg" alt="Release pipeline: Develop, Test, INT, UAT, PROD" width="100%">
 </div>
 
 <div align="center">
@@ -62,6 +82,8 @@ public with sharing class DivyaChokshi {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-1E90E8?style=for-the-badge)
+![Service Cloud](https://img.shields.io/badge/Service_Cloud-0EA5B7?style=for-the-badge)
 ![Experience Cloud](https://img.shields.io/badge/Experience_Cloud-5A67D8?style=for-the-badge)
 ![CRM Analytics](https://img.shields.io/badge/CRM_Analytics-12A579?style=for-the-badge)
 ![Financial Services Cloud](https://img.shields.io/badge/Financial_Services_Cloud-6A5BE2?style=for-the-badge)
